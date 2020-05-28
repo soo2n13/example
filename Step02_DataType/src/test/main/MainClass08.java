@@ -5,5 +5,6 @@ public class MainClass08 {
 		System.out.println("git test");
 		System.out.println("변경1");
 		System.out.println("변경2");
+		System.out.println("본문 내용");
 	}
 }
